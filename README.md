@@ -1,2 +1,2 @@
 # Swift-Extensions
-A collection of useful extensions.
+A collection of swift extensions which I found in the Internet.
